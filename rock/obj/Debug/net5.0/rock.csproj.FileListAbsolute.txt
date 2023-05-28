@@ -1,0 +1,16 @@
+C:\Users\rfria\source\repos\rock\rock\obj\Debug\net5.0\rock.csproj.AssemblyReference.cache
+C:\Users\rfria\source\repos\rock\rock\obj\Debug\net5.0\rock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfria\source\repos\rock\rock\obj\Debug\net5.0\rock.AssemblyInfoInputs.cache
+C:\Users\rfria\source\repos\rock\rock\obj\Debug\net5.0\rock.AssemblyInfo.cs
+C:\Users\rfria\source\repos\rock\rock\obj\Debug\net5.0\rock.csproj.CoreCompileInputs.cache
+C:\Users\rfria\source\repos\rock\rock\bin\Debug\net5.0\rock.exe
+C:\Users\rfria\source\repos\rock\rock\bin\Debug\net5.0\rock.deps.json
+C:\Users\rfria\source\repos\rock\rock\bin\Debug\net5.0\rock.runtimeconfig.json
+C:\Users\rfria\source\repos\rock\rock\bin\Debug\net5.0\rock.runtimeconfig.dev.json
+C:\Users\rfria\source\repos\rock\rock\bin\Debug\net5.0\rock.dll
+C:\Users\rfria\source\repos\rock\rock\bin\Debug\net5.0\ref\rock.dll
+C:\Users\rfria\source\repos\rock\rock\bin\Debug\net5.0\rock.pdb
+C:\Users\rfria\source\repos\rock\rock\obj\Debug\net5.0\rock.dll
+C:\Users\rfria\source\repos\rock\rock\obj\Debug\net5.0\ref\rock.dll
+C:\Users\rfria\source\repos\rock\rock\obj\Debug\net5.0\rock.pdb
+C:\Users\rfria\source\repos\rock\rock\obj\Debug\net5.0\rock.genruntimeconfig.cache
